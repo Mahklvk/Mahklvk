@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a student from vocational school <br>love learning everything<br>fullstack developer
+i'm a student from vocational school 7 baleendah <br>love learning everything<br>fullstack developer
 
 
 ## 🌐 Socials:
